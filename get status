@@ -1,0 +1,35 @@
+[33mcommit 5797a0168690ce6bb855d7c10455af8293ab175e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mwhat.txt[m[33m)[m
+Author: AlexKollins@ <alex_keyn@list.ru>
+Date:   Mon Jun 20 23:37:50 2022 +1000
+
+    a file is changed
+
+[33mcommit 48c309f72dfe896ed7bc75f2d415e95a631a3737[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AlexKollins@ <alex_keyn@list.ru>
+Date:   Mon Jun 20 01:05:26 2022 +1000
+
+    A file has been removed
+
+[33mcommit fe630cdf726ee9665ac23752c7a9b05bd517867f[m
+Author: AlexKollins@ <alex_keyn@list.ru>
+Date:   Mon Jun 20 00:58:22 2022 +1000
+
+    A new file is added
+
+[33mcommit 19fd6125a86c1a18becd0732bea2a0b87c9fc8a3[m
+Author: AlexKollins@ <alex_keyn@list.ru>
+Date:   Mon Jun 20 00:54:17 2022 +1000
+
+    A new file is added
+
+[33mcommit 096303394df7b3a3dd2a83bb51597bb543c327f4[m
+Author: AlexKollins@ <alex_keyn@list.ru>
+Date:   Mon Jun 20 00:44:29 2022 +1000
+
+    A new file is added
+
+[33mcommit 509ad432e7c97e51280922eea49bd8ac71645187[m
+Author: AlexKollins <107479152+AlexKollins@users.noreply.github.com>
+Date:   Sun Jun 19 23:52:40 2022 +1000
+
+    Add files via upload
